@@ -1,0 +1,5 @@
+@font-face {
+  font-family: 'Noto Serif CJK';
+  font-style: normal font-display: swap;
+  src: local('Noto Serif CJK Light'), local('NotoSerifSC-Light'), local('SourceHanSerifCN-Light'), url('') format('woff');
+}
