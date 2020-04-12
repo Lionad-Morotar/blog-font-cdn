@@ -1,0 +1,31 @@
+@font-face {
+  font-family: Dhenmark;
+  src: url('./woff/Dhenmark.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Noto Serif CJK BOLD';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: local('Noto Serif CJK SemiBold'), local('NotoSerifSC-SemiBold'), local('SourceHanSerifCN-SemiBold'), url('./woff/SourceHanSerifCN-SemiBold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Noto Serif CJK';
+  font-style: normal;
+  font-display: swap;
+  src: local('Noto Serif CJK Light'), local('NotoSerifSC-Light'), local('SourceHanSerifCN-Light'), url('./woff/SourceHanSerifCN-Light.woff') format('woff');
+}
+
+.font-1 {
+  font-family: Dhenmark;
+}
+
+.font-2 {
+  font-family: 'Noto Serif CJK BOLD';
+}
+
+.font-3 {
+  font-family: 'Noto Serif CJK';
+}
