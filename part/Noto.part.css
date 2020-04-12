@@ -1,0 +1,8 @@
+@font-face {
+  font-display: swap;
+  font-family: "Noto Serif CJK";
+  font-stretch: normal;
+  font-style: normal;
+  font-weight: 300;
+  src: url(./Noto.part.woff2) format("woff2"), url(./Noto.part.woff) format("woff");
+}
