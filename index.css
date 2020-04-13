@@ -23,13 +23,13 @@ body {
 }
 
 .font-1 {
-  font-family: 'Dhenmark-64';
-}
-
-.font-2 {
   font-family: 'Noto Serif CJK BOLD';
 }
 
-.font-3 {
+.font-2 {
   font-family: 'Noto Serif CJK';
+}
+
+.font-3 {
+  font-family: 'Dhenmark-64';
 }
