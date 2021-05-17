@@ -1,0 +1,20 @@
+{
+  "name": "fontmin-tool",
+  "version": "1.0.0",
+  "description": "fontmin tools",
+  "main": "index.js",
+  "scripts": {
+    "preinstall": "pip install fonttools brotli zopfli",
+    "subfont": "subfont ./lab/3500.html -o ./tmp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lionad-Morotar/blog-font-cdn.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lionad-Morotar/blog-font-cdn/issues"
+  },
+  "homepage": "https://github.com/Lionad-Morotar/blog-font-cdn#readme"
+}
