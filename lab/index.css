@@ -1,35 +1,24 @@
-/* @font-face {
+@font-face {
   font-family: Dhenmark;
   src: url('./source/Dhenmark.ttf') format('woff');
-} */
+}
 
 @font-face {
   font-family: 'Noto Serif CJK BOLD';
   font-style: normal;
   font-weight: 600;
   font-display: swap;
-  src: local('Noto Serif CJK SemiBold'), local('NotoSerifSC-SemiBold'), local('SourceHanSerifCN-SemiBold'), url('./source/SourceHanSerifCN-SemiBold.otf') format('woff');
+  src: url('./source/SourceHanSerifCN-SemiBold.otf') format('woff');
 }
 
-/* @font-face {
+@font-face {
   font-family: 'Noto Serif CJK';
   font-style: normal;
   font-display: swap;
-  src: local('Noto Serif CJK Light'), local('NotoSerifSC-Light'), local('SourceHanSerifCN-Light'), url('./source/SourceHanSerifCN-Light.otf') format('woff');
-} */
+  src: url('./source/SourceHanSerifCN-Light.otf') format('woff');
+}
 
 body {
-  font-size: 20px;
-}
-
-.font-1 {
+  font-size: 40px;
   font-family: 'Noto Serif CJK BOLD';
-}
-
-.font-2 {
-  font-family: 'Noto Serif CJK';
-}
-
-.font-3 {
-  font-family: 'Dhenmark-64';
 }
