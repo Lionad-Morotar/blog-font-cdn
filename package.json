@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Lionad-Morotar/blog-font-cdn/issues"
   },
-  "homepage": "https://github.com/Lionad-Morotar/blog-font-cdn#readme"
+  "homepage": "https://github.com/Lionad-Morotar/blog-font-cdn#readme",
+  "dependencies": {
+    "subfont": "^6.0.1"
+  }
 }
