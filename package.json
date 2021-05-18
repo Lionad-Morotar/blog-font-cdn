@@ -4,7 +4,7 @@
   "description": "fontmin tools",
   "main": "index.js",
   "scripts": {
-    "preinstall": "pip install fonttools brotli zopfli",
+    "preinstall": "pip install brotli zopfli",
     "subfont": "subfont ./lab/7000.html -o ./tmp"
   },
   "repository": {
